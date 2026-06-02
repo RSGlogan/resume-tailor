@@ -1,0 +1,7 @@
+# Never commit your API key or local environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
